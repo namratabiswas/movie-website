@@ -16,10 +16,10 @@ The *entertainment_center.py* file creates multiple instances of that **Movie Cl
 The Python module named *fresh_tomatoes.py* has a function called *open_movies_page* that takes in one argument, which is a list of movies and creates an **HTML** file which visualizes all of your favorite movies.
 
 ## What's included
-1 media.py
-2 entertainment_center.py
-3 fresh_tomatoes.py
-4 README.md
+1. media.py
+2. entertainment_center.py
+3. fresh_tomatoes.py
+4. README.md
 
 ## How to run the program
 1. If necessary, install Python version 2.7.9
