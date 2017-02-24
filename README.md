@@ -17,8 +17,8 @@ The Python module named *fresh_tomatoes.py* has a function called *open_movies_p
 
 ## What's included
 *media.py
-*entertainment_center.py
-*fresh_tomatoes.py
-*README.md
+entertainment_center.py
+fresh_tomatoes.py
+README.md
 
 ## How to run the program
