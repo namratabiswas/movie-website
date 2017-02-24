@@ -1,5 +1,5 @@
 ## Movie Trailer Website
----
+
 
 This project builds a Movie Trailer Website where users can see my favorite movies and watch the trailers. The code stores a list of movie titles, poster images, and movie trailer URLs. This information is displayed on a web page and allow users to review the movies and watch the trailers.
 
@@ -14,13 +14,11 @@ The *entertainment_center.py* file creates multiple instances of that **Movie Cl
 
 
 The Python module named *fresh_tomatoes.py* has a function called *open_movies_page* that takes in one argument, which is a list of movies and creates an **HTML** file which visualizes all of your favorite movies.
----
 
 ## WHAT'S INCLUDED
 +media.py
 +entertainment_center.py
 +fresh_tomatoes.py
 +README.txt
----
 
 ## RUNNING THE PROGRAM
